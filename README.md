@@ -54,7 +54,7 @@ Notice how we changed the priority to "low", who the ticket is assigned to and t
 <img src="https://i.imgur.com/TVnhswi.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we sign in as your agent Sarah and work the tickets. When you initially sign on as Sarah, you should see the two tickets that was assigned to you via the system administrator which in my case, is Justin. Since Sarah is not a system adminitrator, she should not be able to change any of the options like the Priority, who the ticket is assigned to, SLA, etc. You can write a reply as Sarah saying whatever you need to say but you can not label the ticket as "closed" or "resolved" as Sarah.
+Now we sign in as your agent Sarah and work the tickets. When you initially sign on as Sarah, you should see the two tickets that were assigned to you via the system administrator which in my case, is Justin. Since Sarah is not a system adminitrator, she should not be able to change any of the options like the Priority, who the ticket is assigned to, SLA, etc. You can write a reply as Sarah saying whatever you need to say but you can not label the ticket as "closed" or "resolved" as Sarah.
 </p>
 <br />
 

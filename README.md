@@ -26,8 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/1aCI75h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-08-24 124321](https://github.com/Kobla2020/ticket-lifecycle/assets/127445078/36ce1f2b-2be3-4f43-8ec1-4fda0386095c)
+
 </p>
 <p>
 We will be working osTicket as both the "users" and the "agents". Access osTicket on the user sign in page to create a ticket and after you click on "Open a new Ticket", you type in the user information that you made up (the email and the users name). After filling in the user credentials, you decide on a help topic. Remember we made a few help topics to choose from: "Business Critical Outage", "Equipment Request", "Password Reset", and "Personal Computer Issues". After picking one of those help topics, type in the summary of the issue then explain the issue in more detail so the agent knows exactly how to deal with/ fix the issue. Try creating a ticket for each of the help topics using your two users.

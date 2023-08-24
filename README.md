@@ -41,8 +41,7 @@ After creating the tickets, sign in to your agent that has administrative contro
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/3dzheAE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-03-16 044132](https://github.com/Kobla2020/ticket-lifecycle/assets/127445078/e8a04c37-d122-450f-9532-a258c08be9f4)
 </p>
 <p>
 Notice how we changed the priority to "low", who the ticket is assigned to and the SLA plan. Being an administrator like Justin is, you are able to change how servere the issue is in your opinion as well as who to assign the ticket to. I even wrote a response to Ken as Justin in the space at the bottom basically telling him that my coworker Sarah will handle the problem as soon as possible. In the ticket on the right hand side, I labelled it as an emergency and gave it a "SEV-A" SLA which means 1 hour max response time and it needs to be worked on 24-7. Notice how I also changed the department to "System Adminitrators" because this would not be a problem that the support team would be able to handle alone. I also assigned this ticket to myself as Justin. 

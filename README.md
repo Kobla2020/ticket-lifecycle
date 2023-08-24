@@ -56,8 +56,8 @@ Now we sign in as your agent Sarah and work the tickets. When you initially sign
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/kPTejPv.png"  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-03-16 052525](https://github.com/Kobla2020/ticket-lifecycle/assets/127445078/1bb5a5ac-05f0-4542-a60e-b934b0d727db)
+
 </p>
 <p>
 After signing back in to our system administrator, take a look at the tickets. If you click on one of the tickets that you handed off to sarah, you can see that she wrote a response and successfully fixed the users' issue so as the administrator you can write off the ticket as "resolved" and close the ticket. Similarly you can close the resloved ticket that you assigned to yourself as the system administrator(Notice how the ticket says "Marked Overdue" this is because I assigned the SLA SEV-A to this ticket and took more than 1 hour to resolve this issue). Once every Ticket is resolved you can go into your "Tickets" tab and then inside of the "Closed" option should be all the tickets that you resolved. 

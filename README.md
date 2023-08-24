@@ -34,8 +34,7 @@ We will be working osTicket as both the "users" and the "agents". Access osTicke
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/nUKXeUQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Screenshot 2023-03-16 041130](https://github.com/Kobla2020/ticket-lifecycle/assets/127445078/e14d2d5f-c3d1-4493-9dfe-4b3f7d09723e)
 </p>
 <p>
 After creating the tickets, sign in to your agent that has administrative control and observe the tickets you made as your users. After obseving them, click on one to open it up and you will see the ticket in its entirety.
